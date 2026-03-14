@@ -4,7 +4,7 @@ cask "layoutfixer" do
 
   url "https://github.com/potapyich/LayoutFixer/releases/download/v#{version}/LayoutFixer.zip"
   name "LayoutFixer"
-  desc "Fix text typed in the wrong keyboard layout on macOS"
+  desc "Fix text typed in the wrong keyboard layout on macOS" 
   homepage "https://github.com/potapyich/LayoutFixer"
 
   app "LayoutFixer.app"

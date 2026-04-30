@@ -1,6 +1,6 @@
 cask "layoutfixer" do
-  version "1.0.18"
-  sha256 "78ad8f921092a0cc1dba5941ce6f7fb778082ce8386b957344109fe5de77e6a9"
+  version "1.0.19"
+  sha256 "e0914adac220b39971c52cef289beddba7dd343e1865e0d8b161e676caa7c0f2"
 
   url "https://github.com/potapyich/LayoutFixer/releases/download/v#{version}/LayoutFixer.zip"
   name "LayoutFixer"
